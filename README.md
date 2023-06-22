@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @churr0z
 - 👀 I’m interested in playing sports such as volleyball, ultimate, and badminton.
 - 🌱 I’m currently at Computer Systems Technology (CST) student at BCIT.
-- 💞️ I’m currently looking for a Co-op job for May 2022.
 - 📫 How to reach me https://www.linkedin.com/in/el-aine/
 
 <!---
